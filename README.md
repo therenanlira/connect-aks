@@ -16,10 +16,10 @@ Script em shell que automatiza conexáo ao AKS no Azure usando a CLI do Azure. O
 
 Para que o script seja executado automaticamente a cada semana, inclua-o no seu arquivo ````bash_rc```` ou ````bash_profile````, por exemplo:
 
-    ```bash
-    ...
-    $HOME/connect-aks.sh
-    ```
+  ```bash
+  $HOME/connect-aks/connect-aks.sh
+  ```
+
 Se seus clusters AKS possuem a tag "sre", pode ser utilizado o script ````connect-aks-squad.sh```` que perguntará qual o nome de sua squad e conectará apenas nas que possuirem a tag "sre" com o nome informado.
 
 ## Contribuição
