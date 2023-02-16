@@ -25,7 +25,3 @@ Se seus clusters AKS possuem a tag "sre", pode ser utilizado o script ````connec
 ## Contribuição
 
 Sinta-se à vontade para contribuir com este projeto, enviando sugestões de melhoria ou correção de problemas. Para contribuir, siga as orientações do arquivo [CONTRIBUTING.md](CONTRIBUTING.md).
-
-## Licença
-
-Este projeto é licenciado sob a licença MIT - consulte o arquivo [LICENSE.md](LICENSE.md) para obter mais informações.
